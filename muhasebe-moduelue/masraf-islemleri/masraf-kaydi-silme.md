@@ -12,6 +12,12 @@
 
 6\. Açılan menüden "Seçili Kayıtları Sil" seçeneğine tıklayınız.
 
-7.Masraf kaydınız başarıyla silinmiştir.
+7\. Eğer silme işleminizde hata olduğunu fark ederseniz, sağ üst köşede yer alan "İptal Et" butonuna tıklayarak işlemi iptal edebilirsiniz.
+
+8\. Yaptığınız değişiklikleri kaydetmek isterseniz, "Sunucuya Gönder" butonuna tıklayarak güncellemeleri kaydedebilirsiniz.
+
+9\. Bu işlem sonucunda, tahakkuk kaydınız başarıyla silinmiştir.
+
+
 
 \
